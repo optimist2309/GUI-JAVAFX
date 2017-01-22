@@ -1,0 +1,21 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 22 Jan, 2017, 6:14:54 PM
+    Author     : www.github.com/optimist2309
+*/
+
+
+#AnchorPane{
+    
+  -fx-background-image: url("http://images.wisegeek.com/woman-in-glasses-with-chalkboard-of-equations-in-background.jpg");
+   /* -fx-background-repeat: stretch; */   
+    -fx-background-size: 1200 1200;
+    -fx-background-position: center center; 
+    -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0);   
+    
+    
+}
